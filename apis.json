@@ -1,0 +1,72 @@
+{
+    "name": "Blueleaf Advisor",
+    "description": "Blueleaf increases the revenue of financial advisors by helping them win more clients, growing existing clients and driving referrals.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1313-blueleaf-advisor.jpg",
+    "tags": [
+        "agencies",
+        "api united kingdom",
+        "crm",
+        "financial",
+        "financial services",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/blueleaf-advisor\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Blueleaf Advisor",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1313-blueleaf-advisor.jpg",
+            "humanURL": "http:\/\/www.blueleaf.com\/developer\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/blueleaf-advisor-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/blueleaf-advisor-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.blueleaf.com\/category\/savings-investments\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.blueleaf.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/blueleaf"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/blueleaf"
+        },
+        {
+            "type": "Email",
+            "url": "vipsupport@blueleaf.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Blueleaf"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/blueleafadvisor"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.blueleaf.com\/developer\/"
+        }
+    ]
+}
